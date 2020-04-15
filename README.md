@@ -1,4 +1,4 @@
-# MIMUW-S4-SO-DCL-BASHTOOLS
+# MIMUW-S4-SO-DCL-TESTS
 Skrypty do budowania i testowania rozwiazania na students
 Nie sa jakies idealnie nie chce mi sie teraz wiecej kodzic
 
